@@ -22,5 +22,22 @@
     width: 300px;
     min-height: 400px;
     margin: 20px;
-    border: .02px dashed #fff;
+    border: .07rem dashed #fff;
+}
+
+.list{
+    background-color: #e91e63;
+    height: 60px;
+    margin: 30px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    cursor: grab;
+}
+
+.list img{
+    width: 15px;
+    margin-right: 13px;
+    margin-left: 20px;
+
 }
